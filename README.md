@@ -1,4 +1,4 @@
-<h2><img src="./logo.gif" width="30px"> Whispurein</h2>
+<h2><img src="./logo.gif" width="20px">Whispurein</h2>
 <p><strong>version 1.7.2</strong></p>
 <p><strong>discord py</strong></p>
 
