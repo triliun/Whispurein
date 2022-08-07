@@ -1,5 +1,6 @@
 ### Whispurein
-<p>version 1.7.2</p>
+<p>version 1.7.2</p><br>
+<p><strong>discord py</strong></p>
 
 - list features
   - Help
@@ -14,4 +15,4 @@
 
 <p>tags :
 <br>
-discord bot, music discord bot, server info discord bot, help commands discord bot.
+discord py, discord bot, music discord bot, server info discord bot, help commands discord bot, embed, embed random color.
