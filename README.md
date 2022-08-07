@@ -5,7 +5,7 @@
 - list features
   - Help
   - Music
-  - server info
+  - server info News♨️
   - random embed colors
 
 ### 💨 Run the projects
