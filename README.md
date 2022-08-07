@@ -1,0 +1,2 @@
+# Whispurein
+My bot discord
