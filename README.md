@@ -1,5 +1,5 @@
 ### Whispurein
-<p>version 1.7.2</p><br>
+<p><strong>version 1.7.2</strong></p>
 <p><strong>discord py</strong></p>
 
 - list features
