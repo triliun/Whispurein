@@ -14,16 +14,15 @@ class Myhelper(commands.Cog):
   @commands.command(name="help")
   async def help(self, ctx):
     em = discord.Embed(
-    title=':blue_book: HELP MENU :blue_book:',
+    title='HELP MENU ',
     description="all of my Commands",
     colour = random.choice(colors)
   )
     em.set_thumbnail(url="https://media.discordapp.net/attachments/981125787187036190/1003636464778752041/Whispuere_1.jpg")
     em.set_footer(text=f'- Requested by {ctx.author}', icon_url=ctx.author.avatar_url)
-    em.add_field(name='\u200B', value='\u200B', inline=False)
     em.add_field(name='**🎶MUSIC**', value='`play`, `pause`, `resume`, `connect`, `disconnect`, `seek`, `nowplaying`, `queue`, `volume`, `loop`', inline = False)
-    em.add_field(name='\u200B', value='\u200B')
-    em.add_field(name='**❗INFO**', value='`ping`', inline=False)
+    em.add_field(name='**❗INFO**', value='`ping`, `server`', inline=False)
+    em.add_field(name='**🌕 Prefix**', value=cmd_prefix, inline=False)
     #em.add_field(name = f'{cmd_prefix}stop', value = '`stoped music`',inline = False)
     await ctx.send(embed=em)
 
