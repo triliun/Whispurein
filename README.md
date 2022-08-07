@@ -1,2 +1,4 @@
-# Whispurein
-My bot discord
+### Whispurein
+<p>version 1.7.2</p>
+
+
