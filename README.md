@@ -1,6 +1,7 @@
 <h1><img src="./logo.gif" width="20px"> Whispurein</h1>
-**version 1.7.2**
-**discord py**
+<strong>version 1.7.2</strong>
+<strong>discord py</strong>
+
 
 - list features
   - Help
