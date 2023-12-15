@@ -1,18 +1,13 @@
-<h2><img src="./logo.gif" width="20px">Whispurein</h2>
-<p><strong>version 1.7.2</strong></p>
-<p><strong>discord py</strong></p>
+<h1><img src="./logo.gif" width="20px"> Whispurein</h1>
+**version 1.7.2**
+**discord py**
 
 - list features
   - Help
   - Music
-  - server info News♨️
+  - server info News ♨️
   - random embed colors
 
 ### 💨 Run the projects
 
 [![Run on Repl.it](https://repl.it/badge/github/FileAljabaar/Whispurein-V2)](  https://repl.it/github/FileAljabaar/Whispurein)
-
-
-<p>tags :
-<br>
-discord py, discord bot, music discord bot, server info discord bot, help commands discord bot, embed, embed random color.
